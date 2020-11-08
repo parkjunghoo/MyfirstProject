@@ -1,0 +1,104 @@
+body{
+  margin: 0 ;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size : 2em;
+
+}
+.Line{
+  text-decoration: underline;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2{
+
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+
+
+}
+.bottom-container{
+color: #11999E;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px  auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.Back-Cloud{
+  position: absolute;
+  left : 300px;
+  bottom : 300px;
+}
+
+.top-Cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.PhonImg{
+  width: 50%;
+  height: 50%;
+margin:0 auto 0 auto;
+}
+
+.Web-Img{
+  margin:0 auto 0 auto;
+}
+
+.C3D-Img{
+  margin:0 auto 0 auto;
+}
+.borderTest{
+  width:5%;
+  border: 20px dotted gray;
+  border-top : 0px;
+}
+.Insta-IMG{
+  width : 5%;
+  height: 5%;
+  margin: auto auto auto 200px;
+}
+
+.Internet-IMG{
+  width : 5%;
+  width : 5%;
+  margin: auto auto auto 200px;
+}
+
+.Box{
+  background-color: #66BFBF;
+}
+.EndName{
+  color:#EAF6F6;
+}
+.opneName{
+  color: #11999E;
+}
